@@ -1,5 +1,14 @@
 /build
 /node_modules
-
-/bindings/rust
-/Cargo.toml
+/target/
+*.wasm
+log.html
+/bindings/go
+/bindings/c
+/bindings/python
+/bindings/swift
+Package.swift
+pyproject.toml
+Makefile
+package-lock.json
+setup.py
